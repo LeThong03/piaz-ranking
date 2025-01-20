@@ -1,5 +1,5 @@
 "use client"
-import { ChartBar, BarChart3, FolderPlus, LayoutGrid } from 'lucide-react';
+import { ChartBar, BarChart3 } from 'lucide-react';
 import { useRouter } from 'next/navigation';
 
 export default function Sidebar() {
